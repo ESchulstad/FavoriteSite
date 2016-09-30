@@ -50,3 +50,10 @@ nav#navvy.navbar{
 .btn{
     background-color:white;
 }
+#atBottom{
+    text-align:center;
+    font-size: 12pt;
+}
+#copyright{
+    padding-top:40px;
+}
