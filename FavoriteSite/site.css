@@ -28,6 +28,7 @@ nav#navvy.navbar{
     background:none;
     color:aquamarine;
 }
+
 #main{
     text-align:center;
     
@@ -36,4 +37,16 @@ nav#navvy.navbar{
 }
 .caption{
     color:dimgray;
+}
+#button{
+    background-color:white;
+    color:lightpink;
+    
+}
+.mediaButtons{
+    background-color:white;
+    text-align:center;
+}
+.btn{
+    background-color:white;
 }
