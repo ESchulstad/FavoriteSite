@@ -12,3 +12,28 @@
     font-size:75px;
     font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serif;
 }
+nav#navvy.navbar{
+    border:none;
+    background-color:white;
+}
+#navvy a{
+    color:lightgray;
+
+    
+}
+#navbar.navbar-collapse.collapse{
+   
+}
+#navvy a:hover{
+    background:none;
+    color:aquamarine;
+}
+#main{
+    text-align:center;
+    
+    padding: 20px;
+    
+}
+.caption{
+    color:dimgray;
+}
