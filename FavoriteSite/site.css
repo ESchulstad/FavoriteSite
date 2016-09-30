@@ -15,19 +15,26 @@
 nav#navvy.navbar{
     border:none;
     background-color:white;
+    
 }
 #navvy a{
     color:lightgray;
-
+    
     
 }
-#navbar.navbar-collapse.collapse{
-   
+#navbar{
+    padding-left:65px;
 }
+
 #navvy a:hover{
     background:none;
     color:aquamarine;
 }
+.narbar-nav{
+    float:none;
+}
+
+
 
 #main{
     text-align:center;
