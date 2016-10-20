@@ -6,7 +6,6 @@
     color: dimgray;
     text-align:center;
     border-bottom:none;
-    
 }
 .container{
     font-size:75px;
@@ -14,46 +13,54 @@
 }
 nav#navvy.navbar{
     border:none;
-    background-color:white;
-    
+    background-color:white; 
 }
 #navvy a{
     color:lightgray;
-    
-    
-}
-#navbar{
-    padding-left:65px;
 }
 
 #navvy a:hover{
     background:none;
     color:aquamarine;
 }
-.narbar-nav{
-    float:none;
+
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
 }
 
+.navbar .navbar-collapse{
+    text-align:center;
+}
 
+button.navbar-toggle{
+    border:1px solid darkgray;
+}
+span.icon-bar{
+    border:1px solid darkgray;
+}
 
 #main{
     text-align:center;
     
     padding: 20px;
-    
 }
+
 .caption{
     color:dimgray;
 }
+
 #button{
     background-color:white;
     color:lightpink;
-    
 }
+
 .mediaButtons{
     background-color:white;
     text-align:center;
 }
+
 .btn{
     background-color:white;
 }
